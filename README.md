@@ -1,0 +1,2 @@
+# Surveillance-Spy-Robot-using-ESP32-with-IoT-Based-Control
+Developed a cost-e ective IoT-enabled mobile surveillance robot using ESP32 and for real-time video streaming and remote navigation via an Android app. ˆ Integrated Arduino IDE and Blynk IoT for seamless communication between hardware and app. ˆ Assembled components like L298N motor driver, LM2596 power module, and DC motors for precise maneuvering
